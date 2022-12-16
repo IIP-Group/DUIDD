@@ -2,7 +2,7 @@
 
 This simulator implements the experiments of the paper “DUIDD: Deep-Unfolded Interleaved Detection and Decoding for MIMO Wireless Systems,” 
 *R. Wiesmayr, C. Dick, 
-J. Hoydis, and C. Studer, Procs. Asilomar Conf. Signals, Syst., Comput., Oct. 2022.*
+J. Hoydis, and C. Studer, Procs. Asilomar Conf. Signals, Syst., Comput., Oct. 2022, available at https://arxiv.org/abs/2212.07816*
 
 The simulations are implemented with [NVIDIA Sionna](https://github.com/NVlabs/sionna) Release v0.11 and own extensions.
 
